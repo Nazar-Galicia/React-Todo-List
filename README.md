@@ -35,6 +35,8 @@ The application allows users to manage daily tasks efficiently with a clean and 
 - Beginner-friendly but production-oriented structure
 - Fully completed and functional project
 
+## 🔗 Live Demo: https://nazar-galicia.github.io/React-Todo-List/
+
 ## 👤 Author
 
 Name: Nazar Galicia
