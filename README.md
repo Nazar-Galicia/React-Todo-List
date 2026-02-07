@@ -1,12 +1,48 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo List application built with React and Vite.  
+This project was created as a portfolio project to demonstrate core React concepts such as state management, component structure, and working with browser storage.
 
-Currently, two official plugins are available:
+The application allows users to manage daily tasks efficiently with a clean and intuitive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** — component-based UI development
+- **Vite** — fast development server and build tool
+- **JavaScript (ES6+)**
+- **CSS / SCSS** — styling and layout
+- **Local Storage** — persistent data storage
+
+---
+
+## 📝 Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persist tasks using `localStorage`
+- Responsive layout for different screen sizes
+- Clean and minimal UI
+
+  
+## ✨ Project Highlights
+
+- Clear separation of components
+- State management using React hooks
+- Persistent data without a backend
+- Beginner-friendly but production-oriented structure
+- Fully completed and functional project
+
+## 👤 Author
+
+Name: Nazar Galicia
+
+Contact: nazargaliciaworkemail@gmail.com
+
+GitHub: https://github.com/Nazar-Galicia
+
+Date Created: December 26, 2025
+
+*This project was created for portfolio purposes to showcase practical React skills.*
